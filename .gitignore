@@ -1,0 +1,82 @@
+# Pretrained weights / checkpoints
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+pretrained/
+checkpoints/*
+!checkpoints/README.md
+/output/
+runs/
+wandb/
+lightning_logs/
+mlruns/
+
+# Imaging data — never commit
+*.nii
+*.nii.gz
+*.dcm
+*.mha
+*.mhd
+*.nrrd
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.npy
+*.npz
+*.h5
+*.hdf5
+!figures/*.png
+
+# Datasets (paths used during development)
+OmniTumorData/
+OmniTumorData_HF/
+external_datasets/
+biomedparse_datasets/
+
+# Logs / slurm artefacts
+*.log
+slurm-*.out
+slurm-*.err
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+env/
+.env
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local notes / scratch
+TODO.md
+data.md
+notes.md
+tmp/
+temp/
+scratch/

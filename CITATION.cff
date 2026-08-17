@@ -1,0 +1,79 @@
+cff-version: 1.2.0
+message: "If you use OmniTumor, please cite the following work."
+title: "OmniTumor: A Spatial Vision-Language Model for Text-Prompted Volumetric Tumor and Lesion Segmentation"
+authors:
+  - family-names: Zhao
+    given-names: Songlin
+    affiliation: "Mayo Clinic Arizona; Lehigh University"
+  - family-names: Jiang
+    given-names: Caiwen
+    affiliation: Mayo Clinic Arizona
+  - family-names: Ding
+    given-names: Yuzhen
+    affiliation: Mayo Clinic Arizona
+  - family-names: Feng
+    given-names: Hongying
+    affiliation: Mayo Clinic Arizona
+  - family-names: Ma
+    given-names: "Daniel J."
+    affiliation: Mayo Clinic
+  - family-names: Patel
+    given-names: "Samir H."
+    affiliation: Mayo Clinic Arizona
+  - family-names: Vora
+    given-names: "Sujay A."
+    affiliation: Mayo Clinic Arizona
+  - family-names: Luo
+    given-names: Xinwei
+    affiliation: Lehigh University
+  - family-names: Dai
+    given-names: Yurou
+    affiliation: Lehigh University
+  - family-names: He
+    given-names: Lifang
+    affiliation: Lehigh University
+  - family-names: Sun
+    given-names: Lichao
+    affiliation: Lehigh University
+  - family-names: Liu
+    given-names: Wei
+    affiliation: Mayo Clinic Arizona
+year: 2026
+url: "https://github.com/soz223/OmniTumor"
+repository-code: "https://github.com/soz223/OmniTumor"
+license: Apache-2.0
+keywords:
+  - medical imaging
+  - tumor segmentation
+  - vision-language model
+  - text-prompted segmentation
+  - 3D segmentation
+preferred-citation:
+  type: article
+  title: "A Spatial Vision-Language Model for Text-Prompted Volumetric Tumor and Lesion Segmentation"
+  authors:
+    - family-names: Zhao
+      given-names: Songlin
+    - family-names: Jiang
+      given-names: Caiwen
+    - family-names: Ding
+      given-names: Yuzhen
+    - family-names: Feng
+      given-names: Hongying
+    - family-names: Ma
+      given-names: "Daniel J."
+    - family-names: Patel
+      given-names: "Samir H."
+    - family-names: Vora
+      given-names: "Sujay A."
+    - family-names: Luo
+      given-names: Xinwei
+    - family-names: Dai
+      given-names: Yurou
+    - family-names: He
+      given-names: Lifang
+    - family-names: Sun
+      given-names: Lichao
+    - family-names: Liu
+      given-names: Wei
+  year: 2026

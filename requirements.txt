@@ -1,0 +1,13 @@
+torch>=2.1
+torchvision>=0.16
+numpy>=1.24
+scipy>=1.11
+pillow>=10.0
+nibabel>=5.1
+einops>=0.7
+timm>=0.9
+detectron2 @ git+https://github.com/facebookresearch/detectron2.git
+transformers>=4.40
+huggingface_hub>=0.24
+pyyaml>=6.0
+tqdm>=4.66
